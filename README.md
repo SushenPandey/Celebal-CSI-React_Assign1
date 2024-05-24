@@ -1,3 +1,10 @@
+CELEBAL CSI REACT
+Week 1 Assignment
+
+Name - Sushen Pandey
+CT_CSI_RJ_2835
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
