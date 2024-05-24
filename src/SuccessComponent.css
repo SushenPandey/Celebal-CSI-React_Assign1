@@ -1,0 +1,13 @@
+.success-container {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  pre {
+    text-align: left;
+    background-color: #f8f8f8;
+    padding: 10px;
+    border: 1
+  }  
